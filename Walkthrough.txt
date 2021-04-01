@@ -1,3 +1,5 @@
 How to use piezo scripts :
 
+executer le script choose_decomp pour avoir les decompositions harmonique en executant des commands
+
 
